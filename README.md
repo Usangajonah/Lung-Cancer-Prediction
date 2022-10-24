@@ -12,7 +12,11 @@ A library which is a collection of functions that we include in our python code 
 ![PIC1](https://user-images.githubusercontent.com/109528502/197524856-3345b4a0-5d69-4311-80c5-f8160811d241.JPG)
 
 ## GETTING DATA
-I worked with the Lung Cancer csv file which can accessed here. It has categorical Customer info, such as Gender, Lung_cancer. Then it also has numerical value columns:
+I worked with the Lung Cancer csv file which can accessed here. It has categorical Customer info, such as: 
+*  Gender
+*  Lung_cancer
+
+Then it also has numerical value columns:
 *  Age 
 *  Smoking
 *  Yellow_fingers
@@ -27,3 +31,7 @@ I worked with the Lung Cancer csv file which can accessed here. It has categoric
 *  Shortness of breath
 *  Swallowing difficulty 
 *  Chest pain
+
+Read full documentation [here]()
+
+[Twitter Profile](https://twitter.com/Jobenofficial?t=F06epko9lD5L8p3-VkkT9w&s=09)
