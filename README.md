@@ -13,17 +13,17 @@ A library which is a collection of functions that we include in our python code 
 
 ## GETTING DATA
 I worked with the Lung Cancer csv file which can accessed here. It has categorical Customer info, such as Gender, Lung_cancer. Then it also has numerical value columns:
-• Age 
-• Smoking
- • Yellow_fingers
- • Anxiety 
-• Peer_pressure 
-• Chronic disease
-• Fatigue 
-• Allergy 
-• Wheezing 
-• Alcohol consuming 
-• Coughing 
-• Shortness of breath
-• Swallowing difficulty 
-• Chest pain
+*  Age 
+*  Smoking
+*  Yellow_fingers
+*  Anxiety 
+*  Peer_pressure 
+*  Chronic disease
+*  Fatigue 
+*  Allergy 
+*  Wheezing 
+*  Alcohol consuming 
+*  Coughing 
+*  Shortness of breath
+*  Swallowing difficulty 
+*  Chest pain
