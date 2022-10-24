@@ -28,6 +28,12 @@ I worked with the Lung Cancer csv file which can accessed here. It has categoric
 *  Swallowing difficulty 
 *  Chest pain
 
-[Twitter Profile](https://twitter.com/Jobenofficial?t=F06epko9lD5L8p3-VkkT9w&s=09)
+You can read the full documentation [here]()
+
+other relevant links:
+
+[Twitter](https://twitter.com/Jobenofficial?t=F06epko9lD5L8p3-VkkT9w&s=09)
 
 [LinkedIn](https://www.linkedin.com/in/jonahusanga)
+
+[Medium](https://usangajonah.medium.com/)
